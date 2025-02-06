@@ -1,5 +1,21 @@
-# QCERT_Framework
+# QCERT A Model for Community Safety
 
-Initiated in November 2024 in response to the multi-tiered, multi-faceted challenges facing our community and the rapidly escalating threats posed to the safety and sanctuary of our community therein, the Denver chapter of the Queer Community Emergency Response Team (QCERT) was developed to create a well-trained civilian emergency volunteer force. These teams are vital to provide support for urgent situations when threats to well-being or self-determination, and autonomy or liberty are presented, whether against the individual or the community. QCERT operations provides community self-sufficiency through the development and maintenance of multi-functional response teams that, together, can unite and enrich the fractured support architectures of a community, organize them to deliver a holistic, measured response to the threat presented to the individual or the community, and empower the individual or community to maintain their well-being and self-determination as granted to them by their human rights. While the structure of QCERT resembles a traditional Community Emergency Response Team, this framework exists to outline the purpose and multi-functional roles within the association in lieu of governmental support and as tailored to the common needs of the Queer community under the association’s shared motto: 
+This framework was started as a group effort to become a manual by which at-risk communities can enable their safety, security, and longevity through collective action and mutual aid, guided by careful and concise planning. This group consists of professionals within their respective fields who answered a call to action in the presence of various existential threats to the Queer community with the hopes to create change through inspiring action in others, converting "we should", to "we did". As it stands, the originating QCERT exists within the Denver area and contains more than 50 members, led by a decentralized group of volunteers across all demographics working and planning for a common cause- the welfare of the Queer community.
 
-### Nos Nobis Protegimus - We Protect Us
+The framework was developed under the actionable FEMA CERT model, modified to fit the various needs and demands required to build readiness into the Queer community on an individual, local, and community level. To meet this need, this framework contains: 
+
+* Articles of organization
+* Objective Overview
+* Framework Definitions
+* Key Organizaitonal Components
+* Roles and Responsibilities for Teams
+* Team Activation Terms
+
+This repository for the framework will be updated to include in future updates:
+
+* Team-Specific Operational Scope
+* Digital Media Guide for Community Campaigns
+* Tech Infrastructure Guides for Wide-Coverage Encrypted Communication Networks
+* Platform-Agnostic Tech Infrastructure Guides for Decentralized Data Sharing
+* Guidance for Engaging Data with Politicians
+* Operational Security Guides for Data Security
